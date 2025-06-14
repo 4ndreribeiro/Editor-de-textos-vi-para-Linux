@@ -105,7 +105,7 @@ vi nome_do_arquivo.txt
 
 ---
 
-## Slide 7: Edição e Deleção Básicas (Modo de Comando)
+## 7: Edição e Deleção Básicas (Modo de Comando)
 
 * `x`: Deletar caractere sob o cursor.
 * `dw`: Deletar palavra.
